@@ -58,6 +58,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -79,6 +80,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
+| [0782-jewels-and-stones](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
