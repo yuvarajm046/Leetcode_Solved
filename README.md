@@ -21,6 +21,7 @@
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
+| [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
@@ -49,6 +50,7 @@
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
 ## Sliding Window
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
