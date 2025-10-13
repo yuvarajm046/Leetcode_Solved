@@ -45,6 +45,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
@@ -223,6 +225,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
