@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@
 | [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
 ## Breadth-First Search
 |  |
@@ -208,6 +211,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
@@ -224,6 +228,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
