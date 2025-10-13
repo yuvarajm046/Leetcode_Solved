@@ -29,6 +29,7 @@
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0561-array-partition) |
@@ -235,6 +236,7 @@
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
