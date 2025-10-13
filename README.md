@@ -15,6 +15,7 @@
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
+| [1168-duplicate-zeros](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1168-duplicate-zeros) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -116,6 +117,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
+| [1168-duplicate-zeros](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
