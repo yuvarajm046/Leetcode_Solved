@@ -39,6 +39,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
