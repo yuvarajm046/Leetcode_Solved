@@ -14,6 +14,7 @@
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -27,6 +28,7 @@
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
+| [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
 ## Counting
 |  |
 | ------- |
