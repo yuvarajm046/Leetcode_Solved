@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
@@ -178,6 +179,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
@@ -191,6 +193,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
