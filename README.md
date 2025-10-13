@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
