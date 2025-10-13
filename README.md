@@ -134,6 +134,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0120-triangle) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
