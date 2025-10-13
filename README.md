@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
@@ -29,6 +30,7 @@
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
@@ -47,6 +49,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -76,6 +79,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -128,6 +132,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
@@ -148,4 +153,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
