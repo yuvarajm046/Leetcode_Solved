@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
@@ -105,6 +106,7 @@
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
