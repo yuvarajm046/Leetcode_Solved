@@ -91,6 +91,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
