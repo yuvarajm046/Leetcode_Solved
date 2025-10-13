@@ -82,6 +82,7 @@
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1635-number-of-good-pairs) |
+| [1965-sum-of-digits-in-base-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1965-sum-of-digits-in-base-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2752-sum-multiples](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2824-check-if-the-number-is-fascinating) |
