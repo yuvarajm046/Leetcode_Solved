@@ -52,6 +52,7 @@
 | [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0292-nim-game) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
