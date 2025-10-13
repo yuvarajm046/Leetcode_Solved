@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
