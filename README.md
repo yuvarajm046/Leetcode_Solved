@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
@@ -81,6 +82,7 @@
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -93,6 +95,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
+| [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -159,4 +162,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
