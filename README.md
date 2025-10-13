@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0078-subsets) |
@@ -48,6 +49,7 @@
 | [0007-reverse-integer](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
