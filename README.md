@@ -157,6 +157,7 @@
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
+| [0742-to-lower-case](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
