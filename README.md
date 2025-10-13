@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0561-array-partition) |
@@ -105,6 +106,7 @@
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
