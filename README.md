@@ -42,6 +42,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
@@ -232,10 +233,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Counting Sort
 |  |
