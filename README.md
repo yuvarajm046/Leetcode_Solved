@@ -53,6 +53,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -71,6 +72,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
