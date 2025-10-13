@@ -48,6 +48,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
@@ -255,6 +256,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0137-single-number-ii) |
