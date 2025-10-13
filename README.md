@@ -52,6 +52,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3790-fruits-into-baskets-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0792-binary-search) |
+| [3790-fruits-into-baskets-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3790-fruits-into-baskets-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
+| [3790-fruits-into-baskets-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -346,4 +350,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0258-add-digits) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
