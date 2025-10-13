@@ -29,6 +29,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1168-duplicate-zeros) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1635-number-of-good-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -55,6 +56,7 @@
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
