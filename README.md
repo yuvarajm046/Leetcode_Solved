@@ -36,6 +36,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
+| [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
