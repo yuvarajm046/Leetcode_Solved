@@ -64,6 +64,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
