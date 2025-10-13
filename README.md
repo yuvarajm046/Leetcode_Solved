@@ -47,6 +47,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -198,4 +200,12 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0326-power-of-three) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
