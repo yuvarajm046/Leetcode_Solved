@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
+| [0120-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
