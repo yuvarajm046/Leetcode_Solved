@@ -40,6 +40,7 @@
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
