@@ -114,6 +114,7 @@
 | [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0409-longest-palindrome) |
@@ -147,6 +148,7 @@
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0409-longest-palindrome) |
@@ -260,6 +262,7 @@
 | [0169-majority-element](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0414-third-maximum-number) |
