@@ -54,6 +54,7 @@
 | [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
@@ -254,6 +255,7 @@
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -273,6 +275,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 ## Brainteaser
