@@ -162,6 +162,7 @@
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2580-circular-sentence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2580-circular-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
