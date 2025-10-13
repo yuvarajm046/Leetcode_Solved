@@ -37,6 +37,7 @@
 | [0830-largest-triangle-area](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1168-duplicate-zeros) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -221,6 +222,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
@@ -235,6 +237,7 @@
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2887-sort-vowels-in-a-string) |
 ## Geometry
 |  |
