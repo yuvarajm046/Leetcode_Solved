@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0020-valid-parentheses) |
@@ -146,6 +147,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0120-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0120-triangle) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -188,6 +190,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
