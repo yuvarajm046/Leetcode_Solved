@@ -49,6 +49,7 @@
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0263-ugly-number) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0120-triangle) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
