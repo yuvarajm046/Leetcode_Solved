@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
+| [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
