@@ -136,6 +136,7 @@
 | [0058-length-of-last-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
@@ -232,6 +233,7 @@
 | [0075-sort-colors](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
