@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
@@ -31,6 +32,7 @@
 | [0020-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
