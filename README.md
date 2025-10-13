@@ -233,6 +233,7 @@
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0292-nim-game) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
