@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | [0127-word-ladder](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0541-reverse-string-ii) |
@@ -119,6 +121,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1448-maximum-69-number) |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
