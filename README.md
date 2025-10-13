@@ -80,6 +80,7 @@
 | [0035-search-insert-position](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0792-binary-search) |
 ## Dynamic Programming
@@ -154,4 +155,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
