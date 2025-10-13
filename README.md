@@ -101,6 +101,7 @@
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2887-sort-vowels-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -182,6 +183,7 @@
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1018-largest-perimeter-triangle) |
+| [2887-sort-vowels-in-a-string](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/2887-sort-vowels-in-a-string) |
 ## Geometry
 |  |
 | ------- |
