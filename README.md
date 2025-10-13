@@ -39,6 +39,7 @@
 | [0189-rotate-array](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0415-add-strings) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 ## Interactive
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0342-power-of-four) |
 ## Brainteaser
 |  |
 | ------- |
