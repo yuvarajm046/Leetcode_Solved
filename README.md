@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0456-132-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +66,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0561-array-partition) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yuvarajm046/Leetcode_Solved/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
